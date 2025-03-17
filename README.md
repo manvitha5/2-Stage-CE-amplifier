@@ -1,7 +1,7 @@
 # 2-Stage-CE-amplifier
 
 ## ***Theory***
-The process of increasing the strength of weak input signal in terms of voltage,current or power is known as amplificatio. When we cascode 2 CE amplifiers the gain gets multiplied so the overall gain is very high.
+The process of increasing the strength of weak input signal in terms of voltage,current or power is known as amplification. When we cascode 2 CE amplifiers the gain gets multiplied so the overall gain is very high.
 
 #### ***Why CE amplifier is used for high voltage/current gain?***
 1. High Conductance
